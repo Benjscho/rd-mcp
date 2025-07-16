@@ -8,14 +8,14 @@
   - _Requirements: 5.1, 6.1_
 
 - [ ] 2. Implement core MCP server framework
-  - [ ] 2.1 Create basic FastMCP server skeleton
+  - [x] 2.1 Create basic FastMCP server skeleton
     - Implement server initialization and configuration loading
     - Set up logging configuration
     - Create tool registration mechanism
     - Write tests for server initialization
     - _Requirements: 5.1, 5.2, 5.5_
 
-  - [ ] 2.2 Implement configuration handling
+  - [x] 2.2 Implement configuration handling
     - Create configuration class with defaults
     - Implement configuration validation
     - Add support for environment variables
